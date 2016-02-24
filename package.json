@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wlfyit/tyrbot_unifi",
   "dependencies": {
+    "amqplib": "^0.4.1",
     "hiredis": "^0.4.1",
     "log4js": "^0.6.31",
     "redis": "^2.4.2"
