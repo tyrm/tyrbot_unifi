@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wlfyit/tyrbot_unifi/issues"
   },
-  "homepage": "https://github.com/wlfyit/tyrbot_unifi"
+  "homepage": "https://github.com/wlfyit/tyrbot_unifi",
+  "dependencies": {
+    "log4js": "^0.6.31"
+  }
 }
